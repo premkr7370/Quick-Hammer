@@ -1,6 +1,6 @@
 # Quick Hammer
 
-Prime Bid is a web application for running online auctions. Auctioneers can list items and manage auction activity, bidders can place bids, and a super administrator can review commission payment proofs and view platform summaries.
+Quick Hammer is a web application for running online auctions. Auctioneers can list items and manage auction activity, bidders can place bids, and a super administrator can review commission payment proofs and view platform summaries.
 
 The repository contains a React frontend and a separate Express/MongoDB backend. The frontend currently sends API requests to the deployed service at `https://quickhammer.onrender.com`; it does not automatically use a backend started on your computer.
 
